@@ -9,6 +9,13 @@ Postman
 Postman Streamlines the Development Process and Simplifies APIs.
 
 
+Help:
+  help@getpostman.com
+
+Terms of Use:
+  https://www.getpostman.com/licenses/privacy
+
+
 Links
 =====
 Postman Makes API Development Simple.
