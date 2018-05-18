@@ -1,0 +1,23 @@
+links.txt
+Created Fri May 18 10:28:16 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Postman API related links
+
+
+Links
+=====
+API Key
+https://docs.api.getpostman.com/?_ga=2.92078812.714346073.1526602478-1753875338.1526602478#authentication
+
+Intro to the Postman API
+https://www.getpostman.com/docs/v6/postman/postman_api/intro_api
+
+Continuous Integration(CI)
+https://www.getpostman.com/docs/v6/postman/postman_api/continuous_integration
+
+Postman API
+The Postman API allows you to programmatically access data stored in
+Postman account with ease.
+https://docs.api.getpostman.com/?_ga=2.53848942.714346073.1526602478-1753875338.1526602478
