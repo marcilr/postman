@@ -8,5 +8,9 @@ Postman related links
 
 Links
 =====
-Postman Streamlines the Development Process and Simplifies APIs.
+Postman
+Streamlines the Development Process and Simplifies APIs.
 https://www.getpostman.com/
+
+Requests
+https://www.getpostman.com/docs/v6/postman/sending_api_requests/requests
