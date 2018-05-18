@@ -8,5 +8,10 @@ Testing and debugging related links
 
 Links
 =====
+Debugging and logs
+https://www.getpostman.com/docs/v6/postman/sending_api_requests/debugging_and_logs
+
+Troubleshooting API requests
+https://www.getpostman.com/docs/v6/postman/sending_api_requests/troubleshooting_api_requests
 
 
