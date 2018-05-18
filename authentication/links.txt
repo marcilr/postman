@@ -8,6 +8,9 @@ Authentication related links
 
 Links
 =====
+API Key
+https://docs.api.getpostman.com/?_ga=2.92078812.714346073.1526602478-1753875338.1526602478#authentication
+
 Authorization
 The authorization process verifies whether you have permission
 to access the data you want from the server.
