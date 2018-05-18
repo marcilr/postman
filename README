@@ -26,5 +26,8 @@ responses/
   Responses
   https://www.getpostman.com/docs/v6/postman/sending_api_requests/responses
 
+src/
+  Source code
+
 syntax/
   Syntax
