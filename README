@@ -20,6 +20,11 @@ postman.txt
 
 requests/
   Create requests in postman
+  https://www.getpostman.com/docs/v6/postman/sending_api_requests/requests
+
+responses/
+  Responses
+  https://www.getpostman.com/docs/v6/postman/sending_api_requests/responses
 
 syntax/
   Syntax
