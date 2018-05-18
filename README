@@ -8,6 +8,9 @@ Filelist
 links.txt
   Postman related links
 
+post/
+  Posting with postman
+
 postman.txt
   Postman Streamlines the Development Process and Simplifies APIs.
   https://www.getpostman.com/
