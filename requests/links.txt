@@ -11,6 +11,9 @@ Links
 Requests
 https://www.getpostman.com/docs/v6/postman/sending_api_requests/requests
 
+Requests History
+https://www.getpostman.com/docs/v6/sending_and_viewing_responses/history
+
 Sending the first request
 An API request lets you contact a server with
 API endpoints that you want to reach and perform
@@ -23,3 +26,6 @@ resource in a server. PUT lets you replace an existing
 file or resource in a server. And DELETE lets you
 delete data from a server.
 https://www.getpostman.com/docs/v6/postman/launching_postman/sending_the_first_request
+
+Troubleshooting API requests
+https://www.getpostman.com/docs/v6/postman/sending_api_requests/troubleshooting_api_requests
