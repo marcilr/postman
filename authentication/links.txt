@@ -1,0 +1,14 @@
+links.txt
+Created Fri May 18 10:11:17 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Authentication related links
+
+
+Links
+=====
+Authorization
+The authorization process verifies whether you have permission
+to access the data you want from the server.
+https://www.getpostman.com/docs/v6/postman/sending_api_requests/authorization
