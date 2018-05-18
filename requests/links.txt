@@ -1,0 +1,25 @@
+links.txt
+Created Fri May 18 09:57:13 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Request related links
+
+
+Links
+=====
+Requests
+https://www.getpostman.com/docs/v6/postman/sending_api_requests/requests
+
+Sending the first request
+An API request lets you contact a server with
+API endpoints that you want to reach and perform
+some action. Those actions are HTTP methods.
+The most common methods are GET, POST, PUT, and DELETE.
+The names of the methods are self-explanatory.  For
+example GET enables you to retrieve data from a server.
+POST enables you to add data to an existing file or
+resource in a server. PUT lets you replace an existing
+file or resource in a server. And DELETE lets you
+delete data from a server.
+https://www.getpostman.com/docs/v6/postman/launching_postman/sending_the_first_request
