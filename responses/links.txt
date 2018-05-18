@@ -1,0 +1,12 @@
+links.txt
+Created Fri May 18 10:15:34 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Response related links
+
+
+Links
+=====
+Responces
+https://www.getpostman.com/docs/v6/postman/sending_api_requests/responses
