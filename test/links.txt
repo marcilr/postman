@@ -8,10 +8,19 @@ Testing and debugging related links
 
 Links
 =====
+Capturing HTTP requests
+https://www.getpostman.com/docs/v6/postman/sending_api_requests/capturing_http_requests
+
 Debugging and logs
 https://www.getpostman.com/docs/v6/postman/sending_api_requests/debugging_and_logs
 
+Interceptor extension
+Postman Interceptor is a Chrome extension that functions
+as a proxy to capture HTTP or HTTPS requests.  It can
+capture network requests directly from Chrome and save
+them to Postman’s history. This means you can debug your
+web apps APIs in real time!
+https://www.getpostman.com/docs/v6/postman/sending_api_requests/interceptor_extension
+
 Troubleshooting API requests
 https://www.getpostman.com/docs/v6/postman/sending_api_requests/troubleshooting_api_requests
-
-
