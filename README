@@ -8,6 +8,9 @@ Filelist
 authentication/
   Authentication
 
+collections/
+  Collections in postman
+
 links.txt
   Postman related links
 
