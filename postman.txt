@@ -1,3 +1,17 @@
 postman.txt
 Created Thu May 17 16:30:10 AKDT 2018
 Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Postman
+
+
+Postman Streamlines the Development Process and Simplifies APIs.
+
+
+Links
+=====
+Postman Makes API Development Simple.
+Developers use Postman to build
+modern software for the API-first world.
+https://www.getpostman.com/
