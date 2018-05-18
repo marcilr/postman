@@ -1,0 +1,18 @@
+links.txt
+Created Fri May 18 09:52:35 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Post related links
+
+
+Links
+=====
+how to send a post request with a web browser [duplicate]
+https://stackoverflow.com/questions/3307379/how-to-send-a-post-request-with-a-web-browser
+
+POST
+The HTTP POST method sends data to the server. The type
+of the body of the request is indicated by the Content-Type
+header.
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/POST
