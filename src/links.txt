@@ -1,0 +1,17 @@
+links.txt
+Created Fri May 18 10:20:04 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Source code related links
+
+
+Links
+=====
+Generate code snippets
+Once you’ve finalized and saved your request in Postman,
+you might want to make the same request from your own
+application. Postman lets you generate snippets of code
+in various languages and frameworks that will help you
+do this. 
+https://www.getpostman.com/docs/v6/postman/sending_api_requests/generate_code_snippets
