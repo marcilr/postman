@@ -5,6 +5,9 @@ Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
 
 Filelist
 ========
+authentication/
+  Authentication
+
 links.txt
   Postman related links
 
