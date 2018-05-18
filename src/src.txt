@@ -1,0 +1,6 @@
+src.txt
+Created Fri May 18 10:19:30 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Source code
