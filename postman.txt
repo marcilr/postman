@@ -8,16 +8,42 @@ Postman
 
 Postman Streamlines the Development Process and Simplifies APIs.
 
-
 Help:
   help@getpostman.com
 
 Terms of Use:
   https://www.getpostman.com/licenses/privacy
 
+Postman is a Google Chrome app for interacting with HTTP APIs.
+It presents you with a friendly GUI for constructing requests
+and reading responses.  The people behind Postman also offer
+an add-on package called Jetpacks, which includes some automation
+tools and, most crucially, a Javascript testing library.
+Apr 20, 2015
+--https://seesparkbox.com/foundry/api_testing_with_postman
+
 
 Links
 =====
+API Testing with Postman | Sparkbox | Web Design and Development
+Posted 04/20/15 by Mike Yockey
+https://seesparkbox.com/foundry/api_testing_with_postman
+
+Jetpacks
+Postman add-on package which includes some automation tools
+and, most crucially, a Javascript testing library. 
+https://www.getpostman.com/docs/jetpacks_intro
+
+Newman
+Command-line tool for running Postman collections
+http://blog.getpostman.com/2014/05/12/meet-newman-a-command-line-companion-for-postman/
+
+Newman repository
+https://github.com/a85/Newman
+
+Postman collections
+http://getpostman.com/docs/collections
+
 Postman Makes API Development Simple.
 Developers use Postman to build
 modern software for the API-first world.
