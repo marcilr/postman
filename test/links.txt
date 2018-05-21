@@ -22,5 +22,10 @@ them to Postman’s history. This means you can debug your
 web apps APIs in real time!
 https://www.getpostman.com/docs/v6/postman/sending_api_requests/interceptor_extension
 
+Testing from the Outside-In
+by Joël Quenneville
+June 9, 2014 UPDATED ON October 6, 2015
+https://robots.thoughtbot.com/testing-from-the-outsidein
+
 Troubleshooting API requests
 https://www.getpostman.com/docs/v6/postman/sending_api_requests/troubleshooting_api_requests
